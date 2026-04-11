@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Clean DevOps Project 🚀"
+    return "First Project LIVEEEEE!!!!! 🚀"
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
