@@ -21,7 +21,7 @@ This project demonstrates a complete DevOps workflow:
 * Docker 🐳
 * Nginx 🌐
 * GitHub Actions ⚙️
-* Backend (Flask / Node — update this)
+* Backend (Flask / Node)
 
 ---
 
